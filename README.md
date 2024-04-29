@@ -1,11 +1,8 @@
-<p align="center">
-  <!-- Monospace Font -->
-  <samp>
-    <a href="https://editor.p5js.org/raklaptudirm/sketches">p5.js</a> .
-    <a href="https://en.wikipedia.org/wiki/User:Laptudirm">wikipedia</a> .
-    <a href="https://laptudirm.com/blog">blog</a> .
-    <a href="https://www.linkedin.com/in/laptudirm/">linkedin</a> .
-    <a href="./metrics.md">metrics</a> .
-    <a href="https://gitlab.com/laptudirm">old-projects</a>
-  </samp>
+[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Jhey.
 </p>
+<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
